@@ -10,3 +10,5 @@ docker.io/eclipse/ditto-things-search
 docker.io/eclipse/ditto-connectivity
 docker.io/eclipse/ditto-gateway
 docker.io/eclipse/ditto-ui
+docker.io/nginx:1.27-alpine
+docker.io/swaggerapi/swagger-ui:v5.9.1
